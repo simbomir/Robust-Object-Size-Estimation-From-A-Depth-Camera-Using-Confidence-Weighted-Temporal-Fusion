@@ -1,0 +1,2 @@
+# Robust Object Size Estimation From A Depth Camera Using Confidence-Weighted Temporal Fusion
+ This is project is a part of ECE 598  - Cyber Physical Systems. The aim of this porject is to use a 3D camera to detect a small set of objects and estimate their dimentions. This porject is a testing ground for confidence-weiighted temporal fusion methond to reduce the size error under depth noise and occlusions
